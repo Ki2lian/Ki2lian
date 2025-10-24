@@ -1,7 +1,7 @@
 <!-- vscode: ctrl + shift + v -->
 <!-- Alors comme ça on est curieux et on lit le contenu du readme ?? 🧐 -->
 <a href="https://discord.com/users/253176119921082369" target="_blank" rel="noopener noreferrer">
-    <img align="right" src="https://lanyard.cnrad.dev/api/253176119921082369?bg=0b1421&borderRadius=0.75rem&idleMessage=Je%20ne%20joue%20pas%20ou%20je%20ne%20code%20pas%20?%20Étrange..." width="50%"/>
+    <img align="right" src="https://lanyard.cnrad.dev/api/253176119921082369?bg=0b1421&borderRadius=0.75rem&idleMessage=Je%20ne%20joue%20pas%20ou%20je%20ne%20code%20pas%20?%20%C3%89trange..." width="50%"/>
 </a>
 
 # 👋 Salut, moi c’est 𝗞𝗶𝗹𝗹𝗶𝗮𝗻
